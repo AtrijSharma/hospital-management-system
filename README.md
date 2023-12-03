@@ -35,7 +35,7 @@ Table of Contents
 
     - bash
 
-- git clone https://github.com/your-username/hospital-management-system.git
+- git clone https://github.com/AtrijSharma/hospital-management-system.git
 
 - Build the project using Maven:
 
